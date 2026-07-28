@@ -80,7 +80,7 @@ university-app/
 ✅ Project foundation  
 ✅ Landing page  
 ✅ Login & Register pages  
-✅ Complete database schema (multi-university ready)  
+✅ Complete database schema (multi-university)  
 ✅ Supabase client setup  
 
 🔜 Dashboard  
@@ -97,4 +97,5 @@ university-app/
 
 ---
 
-Built for students who want to apply to multiple universities easily.
+Built for students everywhere and anywhere.
+by  Sandile mati
