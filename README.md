@@ -15,40 +15,7 @@ A modern multi-university application portal where students can:
 
 ## Getting Started
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/saibuns400/University-app-.git
-cd University-app-
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Set up Supabase
-
-1. Create a free project at [supabase.com](https://supabase.com)
-2. Go to **Project Settings → API** and copy:
-   - Project URL
-   - `anon` public key
-3. Create a `.env.local` file:
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
-```
-
-4. In the Supabase SQL Editor, run the entire content of `supabase/schema.sql`
-5. In Supabase Storage, create a private bucket named `documents`
-
-### 4. Run the development server
-
-```bash
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000)
 
